@@ -1,0 +1,3 @@
+[submodule "ext/MemoryModulePP"]
+	path = ext/MemoryModulePP
+	url = https://github.com/bb107/MemoryModulePP.git
