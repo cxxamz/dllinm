@@ -1,0 +1,5 @@
+#pragma once
+
+#ifndef DLLINM_STC
+#cmakedefine DLLINM_STC
+#endif
